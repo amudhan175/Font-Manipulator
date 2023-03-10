@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+.head{
+    border:7px solid black;
+    box-shadow: 7px black;
+    background-color: orange;
+}
+.head_label{
+    color: white;
+}
+#font_size{
+    color: white;
+}
+canvas{
+    border-width: 7px;
+    border-color: black;
+}
